@@ -18,7 +18,7 @@ Cleaned and processed version of Stack Overflow's developer survey.
 - CSV, Visual storytelling
 
 ## 📸 Preview
-![Dashboard Preview](preview.png)
+![Dashboard Preview](Dashboard_preview.png)
 
 ## 📂 Files Included
 - `job_market_dashboard.pbix` – Main Power BI file
