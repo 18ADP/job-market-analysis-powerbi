@@ -13,7 +13,7 @@ Cleaned and processed version of Stack Overflow's developer survey.
 - Salary trend by experience
 
 ## 🛠️ Tools & Skills
-- Power BI (Data modeling, DAX, visualization)
+- Power BI (Data modeling, visualization)
 - Python (Data cleaning)
 - CSV, Visual storytelling
 
